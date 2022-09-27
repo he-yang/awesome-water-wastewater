@@ -20,6 +20,8 @@ An awesome list for water and wastewater related applications
 
 * [**WNTR**](https://github.com/USEPA/WNTR) An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.
 
+* [**ORD Stormwater-Management-Model Solver**](https://github.com/USEPA/Stormwater-Management-Model) Dynamic hydrology-hydraulic water quality simulation model
+
 ## Design Tools
 
 * [**Environmental Technologies Design Option Tool (ETDOT)**](https://github.com/USEPA/Environmental-Technologies-Design-Option-Tool) Software models that provides engineers with the capability to evaluate and design systems that use granular activated carbon or ion exchange resins for the removal of contaminants, including PFAS, from drinking water and wastewater
