@@ -14,6 +14,11 @@ An awesome list for water and wastewater related applications
 
 * [**Pore and Surface Diffusion Model (PSDM)**](https://github.com/USEPA/Water_Treatment_Models/tree/master/PSDM) Pore and Surface Diffusion Model (PSDM) was converted into Python from the Fortran version used in AdDesignS(TM) from the Environmental Technologies Design Option Tool (ETDOT)
 
+
+## Hydraulic 
+* [**EPANET**](https://github.com/OpenWaterAnalytics/EPANET) EPANET is an industry-standard program for modeling the hydraulic and water quality behavior of water distribution system pipe networks. 
+
+
 ## Design Tools
 
 * [**Environmental Technologies Design Option Tool (ETDOT)**](https://github.com/USEPA/Environmental-Technologies-Design-Option-Tool) Software models that provides engineers with the capability to evaluate and design systems that use granular activated carbon or ion exchange resins for the removal of contaminants, including PFAS, from drinking water and wastewater
