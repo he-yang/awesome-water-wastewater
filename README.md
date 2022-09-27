@@ -9,6 +9,11 @@ An awesome list for water and wastewater related applications
 
 * [**pyADM1**](https://github.com/CaptainFerMag/PyADM1) a Python implementation of the Anaerobic Digestion Model number 1 
 
+## Water Treatment Models
+* [**Ion Exchange Model**](https://github.com/USEPA/Water_Treatment_Models/tree/master/IonExchangeModel) Homogeneous Surface Diffusion Model (HSDM) and a Pore Surface Diffusion Model (PSDM) for ion exchange (IX) in fixed-bed columns
+
+* [**Pore and Surface Diffusion Model (PSDM)**](https://github.com/USEPA/Water_Treatment_Models/tree/master/PSDM) Pore and Surface Diffusion Model (PSDM) was converted into Python from the Fortran version used in AdDesignS(TM) from the Environmental Technologies Design Option Tool (ETDOT)
+
 ## Design Tools
 
 * [**Environmental Technologies Design Option Tool (ETDOT)**](https://github.com/USEPA/Environmental-Technologies-Design-Option-Tool) Software models that provides engineers with the capability to evaluate and design systems that use granular activated carbon or ion exchange resins for the removal of contaminants, including PFAS, from drinking water and wastewater
