@@ -18,6 +18,7 @@ An awesome list for water and wastewater related applications
 ## Hydraulic 
 * [**EPANET**](https://github.com/OpenWaterAnalytics/EPANET) EPANET is an industry-standard program for modeling the hydraulic and water quality behavior of water distribution system pipe networks. 
 
+* [**WNTR**](https://github.com/USEPA/WNTR) An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.
 
 ## Design Tools
 
