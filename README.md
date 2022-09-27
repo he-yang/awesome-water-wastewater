@@ -27,3 +27,7 @@ An awesome list for water and wastewater related applications
     8. Ion Exchange Design Software (IonExDesign) Version 1.0.0
     9. Software to Estimate Physical Properties (StEPP) Version 1.0
     
+## Database
+
+* [**CompTox Chemicals Dashboard**](https://comptox.epa.gov/dashboard/) Search 1,200,059 Chemicals
+* [**Drinking Water Treatability Database (TDB)**](https://www.epa.gov/water-research/drinking-water-treatability-database-tdb) Information on treatment processes for controlling contaminants
